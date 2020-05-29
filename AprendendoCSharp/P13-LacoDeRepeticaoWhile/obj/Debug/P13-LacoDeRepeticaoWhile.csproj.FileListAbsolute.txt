@@ -1,0 +1,7 @@
+C:\Users\brcaetanoferreira\Desktop\Meus Estudos Programação\FormacaoCSharp\AprendendoCSharp\P13-LacoDeRepeticaoWhile\bin\Debug\P13-LacoDeRepeticaoWhile.exe.config
+C:\Users\brcaetanoferreira\Desktop\Meus Estudos Programação\FormacaoCSharp\AprendendoCSharp\P13-LacoDeRepeticaoWhile\bin\Debug\P13-LacoDeRepeticaoWhile.exe
+C:\Users\brcaetanoferreira\Desktop\Meus Estudos Programação\FormacaoCSharp\AprendendoCSharp\P13-LacoDeRepeticaoWhile\bin\Debug\P13-LacoDeRepeticaoWhile.pdb
+C:\Users\brcaetanoferreira\Desktop\Meus Estudos Programação\FormacaoCSharp\AprendendoCSharp\P13-LacoDeRepeticaoWhile\obj\Debug\P13-LacoDeRepeticaoWhile.csprojAssemblyReference.cache
+C:\Users\brcaetanoferreira\Desktop\Meus Estudos Programação\FormacaoCSharp\AprendendoCSharp\P13-LacoDeRepeticaoWhile\obj\Debug\P13-LacoDeRepeticaoWhile.csproj.CoreCompileInputs.cache
+C:\Users\brcaetanoferreira\Desktop\Meus Estudos Programação\FormacaoCSharp\AprendendoCSharp\P13-LacoDeRepeticaoWhile\obj\Debug\P13-LacoDeRepeticaoWhile.exe
+C:\Users\brcaetanoferreira\Desktop\Meus Estudos Programação\FormacaoCSharp\AprendendoCSharp\P13-LacoDeRepeticaoWhile\obj\Debug\P13-LacoDeRepeticaoWhile.pdb

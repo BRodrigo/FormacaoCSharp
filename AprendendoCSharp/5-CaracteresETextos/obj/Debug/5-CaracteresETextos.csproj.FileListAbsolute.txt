@@ -1,0 +1,7 @@
+C:\Users\brcaetanoferreira\Desktop\Meus Estudos Programação\FormacaoCSharp\AprendendoCSharp\5-CaracteresETextos\bin\Debug\5-CaracteresETextos.exe.config
+C:\Users\brcaetanoferreira\Desktop\Meus Estudos Programação\FormacaoCSharp\AprendendoCSharp\5-CaracteresETextos\bin\Debug\5-CaracteresETextos.exe
+C:\Users\brcaetanoferreira\Desktop\Meus Estudos Programação\FormacaoCSharp\AprendendoCSharp\5-CaracteresETextos\bin\Debug\5-CaracteresETextos.pdb
+C:\Users\brcaetanoferreira\Desktop\Meus Estudos Programação\FormacaoCSharp\AprendendoCSharp\5-CaracteresETextos\obj\Debug\5-CaracteresETextos.csprojAssemblyReference.cache
+C:\Users\brcaetanoferreira\Desktop\Meus Estudos Programação\FormacaoCSharp\AprendendoCSharp\5-CaracteresETextos\obj\Debug\5-CaracteresETextos.csproj.CoreCompileInputs.cache
+C:\Users\brcaetanoferreira\Desktop\Meus Estudos Programação\FormacaoCSharp\AprendendoCSharp\5-CaracteresETextos\obj\Debug\5-CaracteresETextos.exe
+C:\Users\brcaetanoferreira\Desktop\Meus Estudos Programação\FormacaoCSharp\AprendendoCSharp\5-CaracteresETextos\obj\Debug\5-CaracteresETextos.pdb

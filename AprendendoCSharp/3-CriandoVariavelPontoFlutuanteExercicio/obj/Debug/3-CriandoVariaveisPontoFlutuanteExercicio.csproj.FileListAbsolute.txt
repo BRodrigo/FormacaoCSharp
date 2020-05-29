@@ -1,0 +1,7 @@
+C:\Users\brcaetanoferreira\Desktop\Meus Estudos Programação\FormacaoCSharp\AprendendoCSharp\3-CriandoVariavelPontoFlutuanteExercicio\bin\Debug\3-CriandoVariavelPontoFlutuanteExercicio.exe.config
+C:\Users\brcaetanoferreira\Desktop\Meus Estudos Programação\FormacaoCSharp\AprendendoCSharp\3-CriandoVariavelPontoFlutuanteExercicio\bin\Debug\3-CriandoVariavelPontoFlutuanteExercicio.exe
+C:\Users\brcaetanoferreira\Desktop\Meus Estudos Programação\FormacaoCSharp\AprendendoCSharp\3-CriandoVariavelPontoFlutuanteExercicio\bin\Debug\3-CriandoVariavelPontoFlutuanteExercicio.pdb
+C:\Users\brcaetanoferreira\Desktop\Meus Estudos Programação\FormacaoCSharp\AprendendoCSharp\3-CriandoVariavelPontoFlutuanteExercicio\obj\Debug\3-CriandoVariaveisPontoFlutuanteExercicio.csprojAssemblyReference.cache
+C:\Users\brcaetanoferreira\Desktop\Meus Estudos Programação\FormacaoCSharp\AprendendoCSharp\3-CriandoVariavelPontoFlutuanteExercicio\obj\Debug\3-CriandoVariaveisPontoFlutuanteExercicio.csproj.CoreCompileInputs.cache
+C:\Users\brcaetanoferreira\Desktop\Meus Estudos Programação\FormacaoCSharp\AprendendoCSharp\3-CriandoVariavelPontoFlutuanteExercicio\obj\Debug\3-CriandoVariavelPontoFlutuanteExercicio.exe
+C:\Users\brcaetanoferreira\Desktop\Meus Estudos Programação\FormacaoCSharp\AprendendoCSharp\3-CriandoVariavelPontoFlutuanteExercicio\obj\Debug\3-CriandoVariavelPontoFlutuanteExercicio.pdb

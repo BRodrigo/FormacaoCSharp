@@ -1,0 +1,7 @@
+C:\Users\brcaetanoferreira\Desktop\Meus Estudos Programação\FormacaoCSharp\AprendendoCSharp\2-CriandoVariaveisExercicio\bin\Debug\2-CriandoVariaveisExercicio.exe.config
+C:\Users\brcaetanoferreira\Desktop\Meus Estudos Programação\FormacaoCSharp\AprendendoCSharp\2-CriandoVariaveisExercicio\bin\Debug\2-CriandoVariaveisExercicio.exe
+C:\Users\brcaetanoferreira\Desktop\Meus Estudos Programação\FormacaoCSharp\AprendendoCSharp\2-CriandoVariaveisExercicio\bin\Debug\2-CriandoVariaveisExercicio.pdb
+C:\Users\brcaetanoferreira\Desktop\Meus Estudos Programação\FormacaoCSharp\AprendendoCSharp\2-CriandoVariaveisExercicio\obj\Debug\2-CriandoVariaveisExercicio.csprojAssemblyReference.cache
+C:\Users\brcaetanoferreira\Desktop\Meus Estudos Programação\FormacaoCSharp\AprendendoCSharp\2-CriandoVariaveisExercicio\obj\Debug\2-CriandoVariaveisExercicio.csproj.CoreCompileInputs.cache
+C:\Users\brcaetanoferreira\Desktop\Meus Estudos Programação\FormacaoCSharp\AprendendoCSharp\2-CriandoVariaveisExercicio\obj\Debug\2-CriandoVariaveisExercicio.exe
+C:\Users\brcaetanoferreira\Desktop\Meus Estudos Programação\FormacaoCSharp\AprendendoCSharp\2-CriandoVariaveisExercicio\obj\Debug\2-CriandoVariaveisExercicio.pdb

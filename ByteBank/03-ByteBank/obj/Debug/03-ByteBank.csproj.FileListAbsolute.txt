@@ -1,0 +1,6 @@
+C:\Users\brcaetanoferreira\Desktop\Meus Estudos Programação\FormacaoCSharp\ByteBank\03-ByteBank\bin\Debug\03-ByteBank.exe.config
+C:\Users\brcaetanoferreira\Desktop\Meus Estudos Programação\FormacaoCSharp\ByteBank\03-ByteBank\bin\Debug\03-ByteBank.exe
+C:\Users\brcaetanoferreira\Desktop\Meus Estudos Programação\FormacaoCSharp\ByteBank\03-ByteBank\bin\Debug\03-ByteBank.pdb
+C:\Users\brcaetanoferreira\Desktop\Meus Estudos Programação\FormacaoCSharp\ByteBank\03-ByteBank\obj\Debug\03-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\brcaetanoferreira\Desktop\Meus Estudos Programação\FormacaoCSharp\ByteBank\03-ByteBank\obj\Debug\03-ByteBank.exe
+C:\Users\brcaetanoferreira\Desktop\Meus Estudos Programação\FormacaoCSharp\ByteBank\03-ByteBank\obj\Debug\03-ByteBank.pdb

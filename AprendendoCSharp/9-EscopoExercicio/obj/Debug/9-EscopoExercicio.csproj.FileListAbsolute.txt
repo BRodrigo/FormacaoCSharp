@@ -1,0 +1,7 @@
+C:\Users\brcaetanoferreira\Desktop\Meus Estudos Programação\FormacaoCSharp\AprendendoCSharp\9-EscopoExercicio\bin\Debug\9-EscopoExercicio.exe.config
+C:\Users\brcaetanoferreira\Desktop\Meus Estudos Programação\FormacaoCSharp\AprendendoCSharp\9-EscopoExercicio\bin\Debug\9-EscopoExercicio.exe
+C:\Users\brcaetanoferreira\Desktop\Meus Estudos Programação\FormacaoCSharp\AprendendoCSharp\9-EscopoExercicio\bin\Debug\9-EscopoExercicio.pdb
+C:\Users\brcaetanoferreira\Desktop\Meus Estudos Programação\FormacaoCSharp\AprendendoCSharp\9-EscopoExercicio\obj\Debug\9-EscopoExercicio.csprojAssemblyReference.cache
+C:\Users\brcaetanoferreira\Desktop\Meus Estudos Programação\FormacaoCSharp\AprendendoCSharp\9-EscopoExercicio\obj\Debug\9-EscopoExercicio.csproj.CoreCompileInputs.cache
+C:\Users\brcaetanoferreira\Desktop\Meus Estudos Programação\FormacaoCSharp\AprendendoCSharp\9-EscopoExercicio\obj\Debug\9-EscopoExercicio.exe
+C:\Users\brcaetanoferreira\Desktop\Meus Estudos Programação\FormacaoCSharp\AprendendoCSharp\9-EscopoExercicio\obj\Debug\9-EscopoExercicio.pdb

@@ -1,0 +1,6 @@
+C:\Users\brcaetanoferreira\Desktop\Meus Estudos Programação\FormacaoCSharp\AprendendoCSharp\P13-DesafioMultiplosDe3\bin\Debug\P13-DesafioMultiplosDe3.exe.config
+C:\Users\brcaetanoferreira\Desktop\Meus Estudos Programação\FormacaoCSharp\AprendendoCSharp\P13-DesafioMultiplosDe3\bin\Debug\P13-DesafioMultiplosDe3.exe
+C:\Users\brcaetanoferreira\Desktop\Meus Estudos Programação\FormacaoCSharp\AprendendoCSharp\P13-DesafioMultiplosDe3\bin\Debug\P13-DesafioMultiplosDe3.pdb
+C:\Users\brcaetanoferreira\Desktop\Meus Estudos Programação\FormacaoCSharp\AprendendoCSharp\P13-DesafioMultiplosDe3\obj\Debug\P13-DesafioMultiplosDe3.csproj.CoreCompileInputs.cache
+C:\Users\brcaetanoferreira\Desktop\Meus Estudos Programação\FormacaoCSharp\AprendendoCSharp\P13-DesafioMultiplosDe3\obj\Debug\P13-DesafioMultiplosDe3.exe
+C:\Users\brcaetanoferreira\Desktop\Meus Estudos Programação\FormacaoCSharp\AprendendoCSharp\P13-DesafioMultiplosDe3\obj\Debug\P13-DesafioMultiplosDe3.pdb
