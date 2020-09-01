@@ -1,0 +1,7 @@
+C:\Users\brcaetanoferreira\Desktop\Meus Estudos Programação\FormacaoCSharp\NewByteBank\NewByteBank\bin\Debug\NewByteBank.exe.config
+C:\Users\brcaetanoferreira\Desktop\Meus Estudos Programação\FormacaoCSharp\NewByteBank\NewByteBank\bin\Debug\NewByteBank.exe
+C:\Users\brcaetanoferreira\Desktop\Meus Estudos Programação\FormacaoCSharp\NewByteBank\NewByteBank\bin\Debug\NewByteBank.pdb
+C:\Users\brcaetanoferreira\Desktop\Meus Estudos Programação\FormacaoCSharp\NewByteBank\NewByteBank\obj\Debug\NewByteBank.csprojAssemblyReference.cache
+C:\Users\brcaetanoferreira\Desktop\Meus Estudos Programação\FormacaoCSharp\NewByteBank\NewByteBank\obj\Debug\NewByteBank.csproj.CoreCompileInputs.cache
+C:\Users\brcaetanoferreira\Desktop\Meus Estudos Programação\FormacaoCSharp\NewByteBank\NewByteBank\obj\Debug\NewByteBank.exe
+C:\Users\brcaetanoferreira\Desktop\Meus Estudos Programação\FormacaoCSharp\NewByteBank\NewByteBank\obj\Debug\NewByteBank.pdb

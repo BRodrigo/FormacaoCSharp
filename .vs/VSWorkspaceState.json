@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\NewByteBank",
+    "\\NewByteBank\\NewByteBank",
+    "\\NewByteBank\\NewByteBank\\Funcionarios"
   ],
+  "SelectedNode": "\\NewByteBank\\NewByteBank\\Funcionarios\\Funcionario.cs",
   "PreviewInSolutionExplorer": false
 }
